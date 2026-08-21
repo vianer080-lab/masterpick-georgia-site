@@ -1,5 +1,13 @@
 [
-  {"title":"Подборка дня","description":"Свежая подборка товаров. Автоматическое наполнение будет подключено через Master Hub.","store":"MASTERPICK","url":"#"},
-  {"title":"Для дома","description":"Практичные товары и интересные находки для дома.","store":"ПОДБОРКА","url":"#"},
-  {"title":"Техника и аксессуары","description":"Полезные устройства и аксессуары из международных магазинов.","store":"ПОДБОРКА","url":"#"}
+{"title":"Пусковые устройства для автомобиля","description":"Подборка компактных jump starter для аварийного запуска автомобиля.","store":"AMAZON","url":"https://www.amazon.com/dp/B015TKUPIC?tag=masterpick20"},
+{"title":"USB-C зарядные устройства","description":"Зарядные устройства USB-C для телефона, планшета и других устройств.","store":"AMAZON","url":"https://www.amazon.com/dp/B088NRLMPV?tag=masterpick20"},
+{"title":"Кабели USB-C","description":"Практичные кабели для зарядки и передачи данных.","store":"AMAZON","url":"https://www.amazon.com/dp/B08FYNN55Z?tag=masterpick20"},
+{"title":"Портативные аккумуляторы","description":"Power bank для поездок, работы и ежедневного использования.","store":"AMAZON","url":"https://www.amazon.com/dp/B0CB1FW5FC?tag=masterpick20"},
+{"title":"Автомобильные держатели телефона","description":"Удобные крепления смартфона для автомобиля.","store":"AMAZON","url":"https://www.amazon.com/dp/B07G61YN8K?tag=masterpick20"},
+{"title":"MagSafe держатели в автомобиль","description":"Магнитные автомобильные крепления для совместимых смартфонов.","store":"AMAZON","url":"https://www.amazon.com/dp/B0BQRJ6Y5P?tag=masterpick20"},
+{"title":"Портативные компрессоры","description":"Компактные устройства для подкачки автомобильных шин.","store":"AMAZON","url":"https://www.amazon.com/dp/B094DMH7ZM?tag=masterpick20"},
+{"title":"OBD2 диагностика автомобиля","description":"Сканеры для чтения ошибок и базовой диагностики автомобиля.","store":"AMAZON","url":"https://www.amazon.com/dp/B01G5EA74I?tag=masterpick20"},
+{"title":"Автомобильные пылесосы","description":"Компактные пылесосы для быстрой уборки салона.","store":"AMAZON","url":"https://www.amazon.com/dp/B006LXOJC0?tag=masterpick20"},
+{"title":"Беспроводные наушники","description":"Популярная категория беспроводных наушников для повседневного использования.","store":"AMAZON","url":"https://www.amazon.com/dp/B09DT48V16?tag=masterpick20"},
+{"title":"Сетевые фильтры","description":"Решения для подключения и защиты домашней электроники.","store":"AMAZON","url":"https://www.amazon.com/dp/B014EKQ5AA?tag=masterpick20"}
 ]
