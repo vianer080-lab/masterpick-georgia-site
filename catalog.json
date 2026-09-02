@@ -20,7 +20,7 @@
     {"id":"B0CQPHLQYH","source":"amazon","category":"MagSafe car mount","title":"MagSafe держатели в автомобиль","description":"Ещё один вариант MagSafe-крепления.","enabled":true},
     {"id":"B0CS3B7MD8","source":"amazon","category":"portable tire inflator","title":"Портативные компрессоры","description":"Компактные устройства для подкачки автомобильных шин.","enabled":true},
     {"id":"B07QR4Q42L","source":"amazon","category":"portable tire inflator","title":"Портативные компрессоры","description":"Дополнительный вариант компрессора для шин.","enabled":true},
-    {"id":"B094DMH7ZM","source":"amazon","category":"portable tire inflator","title":"Портативные компрессоры","description":"Компрессор для автомобильных шин.","enabled":true},
+    {"id":"B094DMH7ZM","source":"amazon","category":"portable tire inflator","title":"Портативные компрессоры","description":"Компрессор для автомобильных шин.","image":"https://m.media-amazon.com/images/I/81yeGmVV7KL._AC_SL1500_.jpg","enabled":true},
     {"id":"B01G5EA74I","source":"amazon","category":"OBD2 diagnostic scanner","title":"OBD2 диагностика автомобиля","description":"Сканеры для чтения ошибок и базовой диагностики.","enabled":true},
     {"id":"B0GL9RL3XS","source":"amazon","category":"OBD2 diagnostic scanner","title":"OBD2 диагностика автомобиля","description":"Дополнительный вариант диагностического сканера.","enabled":true},
     {"id":"B07Z3HB7DR","source":"amazon","category":"OBD2 diagnostic scanner","title":"OBD2 диагностика автомобиля","description":"Ещё один вариант OBD2-сканера.","enabled":true},
